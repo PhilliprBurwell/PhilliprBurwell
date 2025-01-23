@@ -1,4 +1,4 @@
-<h1>Hi, I'm Phillip, an <a href=www.linkedin.com/in/phillip-burwell-13460231b>IT Professional</a>☺</h1>
+<h1>Hi, I'm Phillip, an <a href=https://www.linkedin.com/in/phillip-burwell-13460231b/>IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -15,4 +15,4 @@
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[linkedin]: www.linkedin.com/in/phillip-burwell-13460231b
+[linkedin]: https://www.linkedin.com/in/phillip-burwell-13460231b/
