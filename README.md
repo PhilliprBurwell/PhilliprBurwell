@@ -6,14 +6,15 @@
   - [osTicket: Prerequisites and Installation](https://github.com/PhilliprBurwell/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/PhilliprBurwell/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/PhilliprBurwell/ticket-lifecycle)
-- <b> Configuring On-premises Active Directory (Microsoft Azure)</b>
+- <b> Configuring On-premises Active Directory (Azure)</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/PhilliprBurwell/configure-ad)
     
-- <b>Network Security Groups and Inspecting Netwrok Protocols</b>
+- <b>Network Security Groups and Inspecting Netwrok Protocols (Azure) </b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/PhilliprBurwell/azure-network-protocols)
 
  - <b>PC Build, Maintenance, and Disassembly</b>
- - [PC: Disassembly, Cleaning & Maintanence and Reassembly](https://github.com/PhilliprBurwell/PC-Build-and-Maintenance)
+ 
+   - [PC: Disassembly, Cleaning & Maintanence and Reassembly](https://github.com/PhilliprBurwell/PC-Build-and-Maintenance)
 
  
 
