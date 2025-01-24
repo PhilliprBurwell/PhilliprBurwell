@@ -13,7 +13,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/PhilliprBurwell/azure-network-protocols)
 
  - <b>PC Build, Maintenance, and Disassembly</b>
- - [PC: Disassembly, Cleaning & Maintanence and Reassembly]([https://github.com/PhilliprBurwell/osticket-prereqs](https://github.com/PhilliprBurwell/PC-Build-and-Maintenance))
+ - [PC: Disassembly, Cleaning & Maintanence and Reassembly](https://github.com/PhilliprBurwell/PC-Build-and-Maintenance)
 
  
 
