@@ -13,7 +13,7 @@
   - [Inspecting Network Protocols](https://github.com/PhilliprBurwell/azure-network-protocols)
 
 - <b>Configuring a Firewall [Network Security Groups] (Azure) </b>
-  - [Network Security Groups](https://github.com/PhilliprBurwell/azure-network-protocols)
+  - [Network Security Groups](https://github.com/PhilliprBurwell/Configuring-a-Firewall-Network-Security-Group-)
 
 
  - <b>PC Build, Maintenance, and Disassembly</b>
