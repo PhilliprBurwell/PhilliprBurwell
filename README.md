@@ -9,8 +9,12 @@
 - <b> Configuring On-premises Active Directory (Azure)</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/PhilliprBurwell/configure-ad)
     
-- <b>Network Security Groups and Inspecting Netwrok Protocols (Azure) </b>
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/PhilliprBurwell/azure-network-protocols)
+- <b>Inspecting Netwrok Protocols (Azure) </b>
+  - [Inspecting Network Protocols](https://github.com/PhilliprBurwell/azure-network-protocols)
+
+- <b>Configuring a Firewall [Network Security Groups] (Azure) </b>
+  - [Network Security Groups](https://github.com/PhilliprBurwell/azure-network-protocols)
+
 
  - <b>PC Build, Maintenance, and Disassembly</b>
  
