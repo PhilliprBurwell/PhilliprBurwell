@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
+- <b>Building a Ticketing System and Prioritizing Tickets in osTicket </b>
   - [osTicket: Prerequisites and Installation](https://github.com/PhilliprBurwell/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/PhilliprBurwell/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/PhilliprBurwell/ticket-lifecycle)
