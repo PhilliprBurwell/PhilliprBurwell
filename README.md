@@ -21,10 +21,9 @@
    - [Software Installation & Troubleshooting in Office 365](https://github.com/PhilliprBurwell/Software-Installation-Troubleshooting-in-Office-365)
 
  
-- <b>  Configuring Linux System Administration & Troubleshooting Toolkit </b>
+ - <b>  Configuring Linux System Administration & Troubleshooting Toolkit </b>
 
   - [Linux System Administration & Troubleshooting Toolkit in Azure](https://github.com/PhilliprBurwell/-Configuring-Linux-System-Administration-Troubleshooting-Toolkit-)
-
 
   
 <h2>🤳Connect with me:</h2>
