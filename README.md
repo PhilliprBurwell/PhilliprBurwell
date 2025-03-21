@@ -17,7 +17,7 @@
  
    - [PC: Disassembly, Cleaning & Maintanence and Reassembly](https://github.com/PhilliprBurwell/PC-Build-and-Maintenance)
 
- - <b>Comprehensive Software Installation & Troubleshooting  </b>
+ - <b>Comprehensive Software Installation, Updating & Troubleshooting  </b>
    - [Software Installation & Troubleshooting in Office 365](https://github.com/PhilliprBurwell/Software-Installation-Troubleshooting-in-Office-365)
 
  
