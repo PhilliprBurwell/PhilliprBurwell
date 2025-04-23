@@ -20,7 +20,7 @@
  - <b>Comprehensive Software & Driver Installation, Updating and Troubleshooting  </b>
    - [Software & Driver Installation, Update & Troubleshooting](https://github.com/PhilliprBurwell/Software-Installation-Troubleshooting-in-Office-365)
   
-- <b> Configuring Linux System Administration & Troubleshooting Toolkit in the Azure </b>
+- <b> Configuring Linux System Administration & Troubleshooting Toolkit </b>
    - [Configuring Linux System Administration & Troubleshooting Toolkit](https://github.com/PhilliprBurwell/-Configuring-Linux-System-Administration-Troubleshooting-Toolkit-)     
 
  
